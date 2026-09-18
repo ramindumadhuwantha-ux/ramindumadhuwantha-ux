@@ -1,11 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ramidu Madhuwantha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+# Hi 👋, I'm [RAMIDU MADHUWANTHA]
 
-- 🌱 I’m currently learning **Cinec University**
+### 🎓 Computer Science Undergraduate
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Network Security & Forensics Science**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am an undergraduate Computer Science student specializing in Network Security and Forensics Science. I am interested in cybersecurity, computer networks, and technology. I am developing my programming and problem-solving skills while learning new technologies.
+
+### 🔐 Areas of Interest
+
+* 🌐 Network Security
+* 🕵️ Digital Forensics
+* 💻 Web Development
+* 🔒 Cybersecurity
+
+### 🛠️ Currently Learning
+
+* C Programming
+* Computer Networking
+* Cybersecurity Fundamentals
+* Digital Forensics
+* Web Development
+
+### 🚀 Projects
+
+**Cybersecurity Awareness Website**
+
+A group project focused on educating users about cybersecurity threats and providing interactive tools to help identify phishing and smishing attacks, recognize social engineering techniques, analyze public Wi-Fi safety, assess device security, and evaluate password strength.
+
+*Currently under development.*
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/ramidu-madhuwantha-b155633b5]
+* 🌐 Portfolio: [Your Portfolio Website]
+* 📧 Email: [ramindumadhuwantha@gmail.com]
